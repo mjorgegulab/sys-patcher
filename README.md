@@ -19,9 +19,12 @@
   - Grafana server
   - Grafana Loki
   - Prometheus
+ 
+## 📋 Requirements
+  - Bash version >= v4 _(to be able to use ```declare -A```)_
 
 
- ## 💳 Examples
+## 💳 Examples
 
 - Without server restart `./sys-patcher.sh`
 - With server restart: `./sys-patcher.sh --reboot`
