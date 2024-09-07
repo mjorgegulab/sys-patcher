@@ -1,9 +1,10 @@
+#!/usr/bin/env bash
+
 ###############################################
 # © Copyright Marc Jorge <git@thewolfx41.dev> #
 # Licensed under GNU GPLv3                    #
 ###############################################
 
-#!/bin/bash
 
 # Color Constants
 C_NC='\033[0m'
