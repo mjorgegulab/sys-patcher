@@ -139,6 +139,7 @@ function process_servers() {
                 "yarn_global_upgrade") yarn_global_upgrade "$server" "$port" ;;
                 "upgrade_node_exporter") upgrade_node_exporter "$server" "$port" ;;
                 "restart_nginx") service_restart "$server" "$port" "nginx" ;;
+                "restart_apache2") service_restart "$server" "$port" "apache2" ;;
                 "restart_grafana") service_restart "$server" "$port" "grafana-server" ;;
                 "restart_loki") service_restart "$server" "$port" "loki" ;;
                 "restart_prometheus") service_restart "$server" "$port" "prometheus" ;;
