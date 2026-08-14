@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/2MZbIRh.png" width="240" />
-</p>
-
 # SysPatcher
 ### Bash script tool to automate remote tasks on servers via SSH
 
