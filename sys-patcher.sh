@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-###############################################
-# © Copyright Marc Jorge <git@thewolfx41.dev> #
-# Licensed under GNU GPLv3                    #
-###############################################
+####################################################
+# © Copyright Marc Jorge <mjorge@voidentropy.com>  #
+# Licensed under GNU GPLv3                         #
+####################################################
 
 
 # Color Constants
